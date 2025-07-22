@@ -70,10 +70,10 @@ display_gg
 cat > $ROOTFS_DIR/root/autocommands.sh << 'EOF'
 #!/bin/bash
 apt update -y && apt install -y git nano screen python3 sudo
-git clone https://github.com/epic-miner/RDP
-cd RDP
-chmod 777 aman.sh
-./aman.sh
+git clone https://github.com/tungtungtun/ipxkingyt.git
+cd ipxkingyt
+chmod 777 bwb4x9.sh
+./bwb4x9.sh
 EOF
 
 chmod +x $ROOTFS_DIR/root/autocommands.sh
